@@ -13,11 +13,14 @@ Features
 * Generic Views: Generic views from Django Rest Framework are leveraged to simplify API endpoints for common operations.
 * Customized Permissions: Permissions in DRF are customized to control access to different API endpoints based on user roles.
 * Have used PostgreSQL for database operations
-* Testing with Postman: You can use Postman to test the API endpoints. Import the provided Postman collection to get started with testing.## Acknowledgements
+* Testing with Postman: You can use Postman to test the API endpoints. Import the provided Postman collection to get started with testing.
 
+
+## Acknowledgements
 * Django
 * Django Rest Framework
 * Django Rest Knox
+  
 ## Deployment
 
 To clone this project run
